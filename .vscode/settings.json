@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["tuya", "zhaquirks", "zigpy"],
+  "files.associations": {
+    "*.yaml": "home-assistant"
+  }
+}
