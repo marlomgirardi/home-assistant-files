@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.isort",
+        "keesschollaart.vscode-home-assistant",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "donjayamanne.python-environment-manager",
+        "kevinrose.vsc-python-indent"
+    ]
+}
